@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face {
+	font-family: 
+}
+
+a {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 25px;
+	background-color: rgba(126,0,2,0.50);
+	padding: 5px;
+	line-height: 40px;
+	border:5px solid rgba(255,255,255,0.50);
+	width: 600px;
+}
+
+
+h1 {
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 40px;
+	background-color: rgba(126,0,2,0.79);
+	padding: 5px;
+	line-height: 40px;
+	width: 600px;
+}
+
+p {
+	font-size: 25px;
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	background-color: rgba(126,0,2,0.50);
+	padding: 5px;
+	line-height: 40px;
+	width: 600px;
+}
+
+h2 {
+	font-size: 35px;
+	color: white;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	background-color: rgba(126,0,2,0.79);
+	padding: 5px;
+	line-height: 40px;
+	width: 600px;
+}
+
+body {
+	background-image: url("spacebg.jpg")
+}
